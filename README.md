@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mohammed Zaid Shaikh
-- 🌱 I’m currently learning Python
 - 📫 How to reach me zaid.t.shaikh10@gmail.com
 
 <!---
